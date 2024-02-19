@@ -10,6 +10,10 @@
 - TG: @Basstrue
 
 ---
+## Основные навыки:
+![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)
+
+---
 ## Примеры работы с API\коллекции Postman:
 - коллекция 1
 ссылка 1
