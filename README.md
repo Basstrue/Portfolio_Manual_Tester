@@ -12,7 +12,7 @@
 ---
 ## Основные навыки:
 ![DevTools](https://img.shields.io/badge/DevTools-168363?style=for-the-badge&logoColor=white)
-![DevTools](https://img.shields.io/badge/DevTools-168350?style=for-the-badge&logoColor=black)
+![DevTools](https://img.shields.io/badge/DevTools-168350?style=for-the-badge)
 ---
 ## Примеры работы с API\коллекции Postman:
 - коллекция 1
