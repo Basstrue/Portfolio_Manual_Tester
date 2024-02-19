@@ -11,7 +11,7 @@
 
 ---
 ## Основные навыки:
-![DevTools](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=Dev&logoColor=white)
+![DevTools](https://img.shields.io/badge/DevTools-168363?style=for-the-badge&logo=Dev&logoColor=white)
 
 ---
 ## Примеры работы с API\коллекции Postman:
