@@ -4,6 +4,7 @@
 ---
 ## Обо мне:
 Я осваиваю тестирование уже более полугода. У меня есть небольшой опыт работы ручным тестировщиком. Я умею уписать чек-листы, тест-кейсы и баг-репорты понятно, ёмко и без лишнего. Владею навыками тестирования и инструментами.
+В тестирование пришел потому, что мне нравится порядок и контроль) нравится знать, как себя "чувствует" продукт, насколько он протестирован. Нравится процесс проверки продукта. И мне нравится писать документацию.
 
 Контакты:
 - почта: vezdeborg@gmail.com  
@@ -11,8 +12,10 @@
 
 ---
 ## Основные навыки:
-![DevTools](https://img.shields.io/badge/DevTools-168363?style=for-the-badge&logoColor=white)
-![DevTools](https://img.shields.io/badge/DevTools-168350?style=for-the-badge)
+![Ручное тестирование](https://img.shields.io/badge/DevTools-168363?style=for-the-badge&logoColor=white)
+![Тестовая документация](https://img.shields.io/badge/DevTools-168350?style=for-the-badge)
+![WEB](https://img.shields.io/badge/DevTools-168363?style=for-the-badge&logoColor=white)
+![Mobile](https://img.shields.io/badge/DevTools-168350?style=for-the-badge)
 ---
 ## Примеры работы с API\коллекции Postman:
 - коллекция 1
