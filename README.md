@@ -49,6 +49,9 @@
 <img src="https://img.shields.io/badge/YouTrack-356e07?style=plastic" alt="YouTrack" height="30"/>
 <img src="https://img.shields.io/badge/ClickUp-4fa60a?style=plastic" alt="ClickUp" height="30"/>
 <img src="https://img.shields.io/badge/GoogleDocs-356e07?style=plastic" alt="GoogleDocs" height="30"/>   
+<img src="https://img.shields.io/badge/Agile-078ca3?style=plastic" alt="Agile" height="30"/>
+<img src="https://img.shields.io/badge/Scrum-056373?style=plastic" alt="Scrum" height="30"/>
+<img src="https://img.shields.io/badge/Kanban-078ca3?style=plastic" alt="Kanban" height="30"/>
 
 
 
