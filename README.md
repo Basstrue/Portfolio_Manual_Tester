@@ -43,7 +43,13 @@
 <img src="https://img.shields.io/badge/k8s-a7bf0a?style=plastic" alt="k8s" height="30"/>
 <img src="https://img.shields.io/badge/OpenSearch-7f9107?style=plastic" alt="OpenSearch" height="30"/>
 <img src="https://img.shields.io/badge/Lens-a7bf0a?style=plastic" alt="Lens" height="30"/>
-<img src="https://img.shields.io/badge/GitLab-CI%5CCD-a7bf0a?labelColor=7f9107&style=plastic" alt="GitLab" height="30"/>
+<img src="https://img.shields.io/badge/GitLab-CI%5CCD-a7bf0a?labelColor=7f9107&style=plastic" alt="GitLab" height="30"/>   
+<img src="https://img.shields.io/badge/TestIT-356e07?style=plastic" alt="TestIT" height="30"/>
+<img src="https://img.shields.io/badge/Jira-4fa60a?style=plastic" alt="Jira" height="30"/>
+<img src="https://img.shields.io/badge/YouTrack-356e07?style=plastic" alt="YouTrack" height="30"/>
+<img src="https://img.shields.io/badge/ClickUp-4fa60a?style=plastic" alt="ClickUp" height="30"/>
+<img src="https://img.shields.io/badge/GoogleDocs-356e07?style=plastic" alt="GoogleDocs" height="30"/>   
+
 
 
 
