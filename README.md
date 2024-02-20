@@ -12,10 +12,7 @@
 
 ---
 ## Основные навыки:
-![Ручное тестирование](https://img.shields.io/badge/DevTools-168363?style=for-the-badge&logoColor=white)
-![Тестовая документация](https://img.shields.io/badge/Тестовая документация-168350?style=for-the-badge)
-![WEB](https://img.shields.io/badge/DevTools-168363?style=for-the-badge&logoColor=white)
-![Mobile](https://img.shields.io/badge/DevTools-168350?style=for-the-badge)
+![Ручное тестирование](https://img.shields.io/badge/%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-153e9e?style=plastic)
 ---
 ## Примеры работы с API\коллекции Postman:
 - коллекция 1
