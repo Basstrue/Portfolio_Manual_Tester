@@ -13,7 +13,7 @@
 ---
 ## Основные навыки:
 ![Ручное тестирование](https://img.shields.io/badge/DevTools-168363?style=for-the-badge&logoColor=white)
-![Тестовая документация](https://img.shields.io/badge/DevTools-168350?style=for-the-badge)
+![Тестовая документация](https://img.shields.io/badge/Тестовая документация-168350?style=for-the-badge)
 ![WEB](https://img.shields.io/badge/DevTools-168363?style=for-the-badge&logoColor=white)
 ![Mobile](https://img.shields.io/badge/DevTools-168350?style=for-the-badge)
 ---
