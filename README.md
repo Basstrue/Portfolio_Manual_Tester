@@ -37,7 +37,17 @@
 <img src="https://img.shields.io/badge/Kotlin-7f9107?style=plastic" alt="Kotlin" height="30"/>   
 <img src="https://img.shields.io/badge/Git-ad6d05?style=plastic" alt="Git" height="30"/>
 <img src="https://img.shields.io/badge/Logs-eb9915?style=plastic" alt="Logs" height="30"/>
-<img src="https://img.shields.io/badge/ELK-ad6d05?style=plastic" alt="ELK" height="30"/>
+<img src="https://img.shields.io/badge/ELK-ad6d05?style=plastic" alt="ELK" height="30"/>   
+<img src="https://img.shields.io/badge/CI%5CCD-a7bf0a?style=plastic" alt="CI\CD" height="30"/>
+<img src="https://img.shields.io/badge/Docker-7f9107?style=plastic" alt="Docker" height="30"/>
+<img src="https://img.shields.io/badge/k8s-a7bf0a?style=plastic" alt="k8s" height="30"/>
+<img src="https://img.shields.io/badge/OpenSearch-7f9107?style=plastic" alt="OpenSearch" height="30"/>
+<img src="https://img.shields.io/badge/Lens-a7bf0a?style=plastic" alt="Lens" height="30"/>
+<img src="https://img.shields.io/badge/GitLab-CI%5CCD-a7bf0a?labelColor=7f9107&style=plastic" alt="GitLab" height="30"/>
+
+
+
+
 
 
 ---
