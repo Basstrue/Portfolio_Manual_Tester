@@ -12,7 +12,7 @@
 
 ---
 ## Основные навыки:
-<img src="https://img.shields.io/badge/%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-153e9e?style=plastic" alt="Ручное тестирование" height="30"/> <img src="https://img.shields.io/badge/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F-153e9e?style=plastic" alt="Тестовая документация" height="30"/>
+<img src="https://img.shields.io/badge/%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-153e9e?style=plastic" alt="Ручное тестирование" height="30"/> <img src="https://img.shields.io/badge/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F-530669?style=plastic" alt="Тестовая документация" height="30"/>
 <img src="https://img.shields.io/badge/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F-153e9e?style=plastic" alt="Тестовая документация" height="30"/>
 
 ---
