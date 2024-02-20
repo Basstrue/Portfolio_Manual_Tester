@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/SQL-356e07?style=plastic" alt="SQL" height="30"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4fa60a?style=plastic" alt="PostgreSQL" height="30"/>
 <img src="https://img.shields.io/badge/Dbeaver-356e07?style=plastic" alt="Dbeaver" height="30"/>
-<img src="https://img.shields.io/badge/MySQL-4fa60a?style=plastic" alt="MySQL" />
+<img src="https://img.shields.io/badge/MySQL-4fa60a?style=plastic" alt="MySQL" height="30"/>
 
 ---
 ## Примеры работы с API\коллекции Postman:
