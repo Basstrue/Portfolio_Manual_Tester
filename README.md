@@ -20,6 +20,12 @@
 <img src="https://img.shields.io/badge/HTML-CSS-056373?labelColor=078ca3&style=plastic" alt="HTML" height="30"/>
 <img src="https://img.shields.io/badge/DevTools-078ca3?style=plastic" alt="DevTools" height="30"/>
 <img src="https://img.shields.io/badge/Bug%20Magnet-056373?style=plastic" alt="Bug Magnet" height="30"/>
+<img src="https://img.shields.io/badge/REST-078ca3?style=plastic" alt="REST" height="30"/>
+<img src="https://img.shields.io/badge/SOAP-056373?style=plastic" alt="SOAP" height="30"/>
+<img src="https://img.shields.io/badge/XML-078ca3?style=plastic" alt="XML" height="30"/>
+<img src="https://img.shields.io/badge/Swagger-056373?style=plastic" alt="Swagger" height="30"/>
+<img src="https://img.shields.io/badge/Postman-078ca3?style=plastic" alt="Postman" height="30"/>
+
 
 ---
 ## Примеры работы с API\коллекции Postman:
