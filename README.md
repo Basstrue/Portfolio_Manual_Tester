@@ -87,6 +87,38 @@
     join tickets on bookings.book_ref = tickets.book_ref
     where total_amount > 1200000
 ```
+3. Тут вот переменные.
+```
+    select flight_no, scheduled_departure, scheduled_arrival,
+    scheduled_arrival::timestamp - scheduled_departure::timestamp as  
+    Plane_time, departure_airport, arrival_airport
+    from flights join airports on airports.airport_code = flights.departure_airport
+    where scheduled_departure >= '2017-09-13 00:00:00.000'
+    and (select city as citi1 from airports where airports.airport_code =      
+    flights.departure_airport) = :gorod_otpravl
+    and (select city as citi2 from airports where airports.airport_code = flights.arrival_airport) =    
+    :gorod_pribyt
+```
+4. Здесь case~when.
+```
+    select
+    case
+        when actual_departure::timestamp - scheduled_departure::timestamp < '00:05:00'
+            then 'Меньше 5 минут'
+        when actual_departure::timestamp - scheduled_departure::timestamp between        
+           '00:05:00' and '00:10:00'
+           then 'Между 5-10 минут'
+        when actual_departure::timestamp - scheduled_departure::timestamp > '00:10:00'
+        then 'Больше 10 минут'
+    end as Задержка,
+    count(*) as Количество
+    from flights
+    where departure_airport = 'DME' and extract(year from actual_departure) = 2017
+       and extract(month from actual_departure) = 8
+       and actual_departure::timestamp - scheduled_departure::timestamp > '00:00:00'
+    group by Задержка
+    order by Задержка desc
+```
 
 
 
