@@ -64,6 +64,7 @@
 ---
 ## Примеры работы с API\коллекции Postman:
 1. Тестирование создания организации, набор тестов для проверки API.
+    
 <div class="postman-run-button"
 data-postman-action="collection/fork"
 data-postman-visibility="public"
@@ -78,8 +79,6 @@ data-postman-collection-url="entityId=28454954-a3056e18-4ac2-4f56-a0b2-0ec7d5acb
     ));
   }(window, document, "_pm", "PostmanRunObject", "https://run.pstmn.io/button.js"));
 </script>
-- коллекция 2
-ссылка 2
 
 ---
 ## Примеры чек-листов:
