@@ -125,13 +125,13 @@ PostgreSQL.
 
 ---
 ## Примеры баг-репортов:
-- тестовое задание на стажировку в Андерсен. Написать отчеты об ошибках. В файле есть вкладка "Задание" - там адрес и описание. 
+- тестовое задание на стажировку. Написать отчеты об ошибках. В файле есть вкладка "Задание" - там адрес и описание. 
 https://docs.google.com/spreadsheets/d/15sEuoAraOkgsL15Wg92pE9fB7A6pXNOAeZBx-yvXyKk/edit#gid=201621375
 
 ---
 ## Примеры тест-кейсов:
-- тестовое задание в Контур. Нужно было протестировать поиск. В файле есть вкладка "Задание".
-[ссылка 1](https://docs.google.com/spreadsheets/d/1Sn9s3xIKwaSvhW9KMz7ZwyBmsE6JWuPCOFmCityryiw/edit#gid=1752542424)https://docs.google.com/spreadsheets/d/1Sn9s3xIKwaSvhW9KMz7ZwyBmsE6JWuPCOFmCityryiw/edit#gid=1752542424
+- тестовое задание. Нужно было протестировать поиск. В файле есть вкладка "Задание".
+[ссылка 1](Поиск, тест-кейсы)https://docs.google.com/spreadsheets/d/1Sn9s3xIKwaSvhW9KMz7ZwyBmsE6JWuPCOFmCityryiw/edit#gid=1752542424
 
 
 ---
