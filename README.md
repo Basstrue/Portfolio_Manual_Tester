@@ -126,7 +126,7 @@
 ---
 ## Примеры баг-репортов:
 - тестовое задание на стажировку. Написать отчеты об ошибках. В файле есть вкладка "Задание" - там адрес и описание.    
-https://docs.google.com/spreadsheets/d/15sEuoAraOkgsL15Wg92pE9fB7A6pXNOAeZBx-yvXyKk/edit#gid=201621375
+[Link](https://docs.google.com/spreadsheets/d/15sEuoAraOkgsL15Wg92pE9fB7A6pXNOAeZBx-yvXyKk/edit#gid=201621375)
 
 ---
 ## Примеры тест-кейсов:
