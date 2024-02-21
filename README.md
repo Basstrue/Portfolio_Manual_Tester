@@ -131,7 +131,7 @@
 ---
 ## Примеры тест-кейсов:
 - тестовое задание. Нужно было протестировать поиск. В файле есть вкладка "Задание".   
-https://docs.google.com/spreadsheets/d/1Sn9s3xIKwaSvhW9KMz7ZwyBmsE6JWuPCOFmCityryiw/edit#gid=1752542424
+[Ссылка на Google Sheets](https://docs.google.com/spreadsheets/d/1Sn9s3xIKwaSvhW9KMz7ZwyBmsE6JWuPCOFmCityryiw/edit#gid=1752542424)
 
 
 ---
