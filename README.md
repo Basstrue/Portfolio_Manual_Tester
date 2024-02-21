@@ -143,7 +143,7 @@ https://docs.google.com/spreadsheets/d/1Sn9s3xIKwaSvhW9KMz7ZwyBmsE6JWuPCOFmCityr
 
 ---
 ## Some random joke   
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" font-size="30px"/>  
+<img src="https://readme-jokes.vercel.app/api.jpg" alt="Jokes Card" height="30"/>  
 Have a nice day!
 
 
