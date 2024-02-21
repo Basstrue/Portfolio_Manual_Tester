@@ -142,7 +142,8 @@ https://docs.google.com/spreadsheets/d/1Sn9s3xIKwaSvhW9KMz7ZwyBmsE6JWuPCOFmCityr
 ссылка 2
 
 ---
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+##Some random joke
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" height="50"/>
+Have a nice day!
 
----
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
