@@ -70,13 +70,13 @@
 ## Примеры SQL-запросов:
 Могу писать запросы примерно такого уровня:   
 1. Здесь сабстринг по маске, каст в инт.
-'''
+```
     select aircraft_code, seat_no 
     from seats 
     where aircraft_code = '319' 
     order by substring(seat_no, '^[0-9]+')::int, right(seat_no, 1)
 
-'''
+```
 
 
 
