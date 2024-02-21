@@ -77,7 +77,16 @@
     order by substring(seat_no, '^[0-9]+')::int, right(seat_no, 1)
 
 ```
-
+2. Здесь экстракт, касты.
+```
+    select bookings.book_ref as Номер_брони,
+    extract(year from book_date)::int as Год_брони,
+    ticket_no as Номера_билетов,
+    total_amount::int as Полная_сумма_брони
+    from bookings
+    join tickets on bookings.book_ref = tickets.book_ref
+    where total_amount > 1200000
+```
 
 
 
