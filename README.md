@@ -142,8 +142,8 @@ https://docs.google.com/spreadsheets/d/1Sn9s3xIKwaSvhW9KMz7ZwyBmsE6JWuPCOFmCityr
 ссылка 2
 
 ---
-##Some random joke
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" height="50"/>
+##Some random joke   
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" height="100"/>    
 Have a nice day!
 
 
