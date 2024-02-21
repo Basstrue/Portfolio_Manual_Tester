@@ -63,8 +63,21 @@
 
 ---
 ## Примеры работы с API\коллекции Postman:
-- коллекция 1
-ссылка 1
+1. Тестирование создания организации, набор тестов для проверки API.
+<div class="postman-run-button"
+data-postman-action="collection/fork"
+data-postman-visibility="public"
+data-postman-var-1="28454954-a3056e18-4ac2-4f56-a0b2-0ec7d5acb07c"
+data-postman-collection-url="entityId=28454954-a3056e18-4ac2-4f56-a0b2-0ec7d5acb07c&entityType=collection&workspaceId=9da3f40c-ad6e-4c2e-abec-a00ccdfa41aa"></div>
+<script type="text/javascript">
+  (function (p,o,s,t,m,a,n) {
+    !p[s] && (p[s] = function () { (p[t] || (p[t] = [])).push(arguments); });
+    !o.getElementById(s+t) && o.getElementsByTagName("head")[0].appendChild((
+      (n = o.createElement("script")),
+      (n.id = s+t), (n.async = 1), (n.src = m), n
+    ));
+  }(window, document, "_pm", "PostmanRunObject", "https://run.pstmn.io/button.js"));
+</script>
 - коллекция 2
 ссылка 2
 
