@@ -69,14 +69,7 @@
 
 
 <details>
-<summary>My top languages</summary>
-
-</details>
-
-   <details>
-## <summary>Примеры SQL-запросов:</summary>
-   </details>
-
+<summary>Примеры SQL-запросов:</summary>
 PostgreSQL.
    
 1. Здесь сабстринг по маске, каст в инт.
@@ -129,6 +122,9 @@ PostgreSQL.
     group by Задержка
     order by Задержка desc
 ```
+</details>
+
+
 
 
 
