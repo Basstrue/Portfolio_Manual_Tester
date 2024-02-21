@@ -130,10 +130,9 @@ https://docs.google.com/spreadsheets/d/15sEuoAraOkgsL15Wg92pE9fB7A6pXNOAeZBx-yvX
 
 ---
 ## Примеры тест-кейсов:
-- описание 1
-ссылка 1
-- описание 2
-ссылка 2
+- тестовое задание в Контур. Нужно было протестировать поиск. В файле есть вкладка "Задание".
+[ссылка 1](https://docs.google.com/spreadsheets/d/1Sn9s3xIKwaSvhW9KMz7ZwyBmsE6JWuPCOFmCityryiw/edit#gid=1752542424)https://docs.google.com/spreadsheets/d/1Sn9s3xIKwaSvhW9KMz7ZwyBmsE6JWuPCOFmCityryiw/edit#gid=1752542424
+
 
 ---
 ## Примеры баг-репортов:
