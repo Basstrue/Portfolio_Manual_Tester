@@ -56,11 +56,6 @@
 <img src="https://img.shields.io/badge/English-C1-040b59?labelColor=153e9e&style=plastic" alt="English" height="30"/>
 
 
-
-
-
-
-
 ---
 ## Примеры работы с API\коллекции Postman:
 Тестирование создания организации, набор тестов для проверки API. Написана вручную, с нуля)
