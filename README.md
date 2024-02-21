@@ -64,8 +64,9 @@
 
 
 ---
+## Примеры SQL-запросов:
 <details>
-## <summary> Примеры SQL-запросов:</summary>
+<summary> Примеры SQL-запросов:</summary>
 PostgreSQL.
    
 1. Здесь сабстринг по маске, каст в инт.
