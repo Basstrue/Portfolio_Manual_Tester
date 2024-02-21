@@ -138,7 +138,7 @@ https://docs.google.com/spreadsheets/d/1Sn9s3xIKwaSvhW9KMz7ZwyBmsE6JWuPCOFmCityr
 
 
 ---
-## Примеры баг-репортов:
+## Примеры чек-листов:
 - описание 1
 ссылка 1
 - описание 2
