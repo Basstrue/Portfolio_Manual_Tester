@@ -132,7 +132,8 @@
 ## Примеры тест-кейсов:
 - тестовое задание. Нужно было протестировать поиск. В файле есть вкладка "Задание".   
 [Ссылка на Google Sheets](https://docs.google.com/spreadsheets/d/1Sn9s3xIKwaSvhW9KMz7ZwyBmsE6JWuPCOFmCityryiw/edit#gid=1752542424)
-
+- тестовое задание. Нужно было протестировать поиск. В файле есть вкладка "Задание". Плюс, здесь есть и баг-репорты.
+[Ссылка на Google Sheets](https://docs.google.com/spreadsheets/d/112ot68d9Spc8wTnYL5O5FANwDksmKeTG5SEqorM1RME/edit#gid=857705290)
 
 ---
 ## Примеры чек-листов:
