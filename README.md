@@ -144,6 +144,6 @@ https://docs.google.com/spreadsheets/d/1Sn9s3xIKwaSvhW9KMz7ZwyBmsE6JWuPCOFmCityr
 ---
 ## Some random joke   
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>  
-Have a nice day!
+## Have a nice day!
 
 
