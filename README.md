@@ -68,7 +68,8 @@
 [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/28454954-a3056e18-4ac2-4f56-a0b2-0ec7d5acb07c?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D28454954-a3056e18-4ac2-4f56-a0b2-0ec7d5acb07c%26entityType%3Dcollection%26workspaceId%3D9da3f40c-ad6e-4c2e-abec-a00ccdfa41aa)
 
 ## Примеры SQL-запросов:
-Могу писать запросы примерно такого уровня:   
+PostgreSQL.
+   
 1. Здесь сабстринг по маске, каст в инт.
 ```
     select aircraft_code, seat_no 
