@@ -27,8 +27,8 @@
 <img src="https://img.shields.io/badge/XML-078ca3?style=plastic" alt="XML" height="30"/>
 <img src="https://img.shields.io/badge/Swagger-056373?style=plastic" alt="Swagger" height="30"/>
 <img src="https://img.shields.io/badge/Postman-078ca3?style=plastic" alt="Postman" height="30"/>
-<img src="https://img.shields.io/badge/JavaScript-056373?style=plastic" alt="JavaScript" height="30"/>  
-<img src="https://img.shields.io/badge/Web Developer Toolbar-078ca3?style=plastic" alt="Web Developer Toolbar" height="30"/>
+<img src="https://img.shields.io/badge/JavaScript-056373?style=plastic" alt="JavaScript" height="30"/>
+<img src="https://img.shields.io/badge/Web Developer Toolbar-078ca3?style=plastic" alt="Web Developer Toolbar" height="30"/>   
 <img src="https://img.shields.io/badge/SQL-356e07?style=plastic" alt="SQL" height="30"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4fa60a?style=plastic" alt="PostgreSQL" height="30"/>
 <img src="https://img.shields.io/badge/Dbeaver-356e07?style=plastic" alt="Dbeaver" height="30"/>
