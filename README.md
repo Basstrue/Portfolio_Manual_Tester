@@ -71,7 +71,7 @@
     
 [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/28454954-a3056e18-4ac2-4f56-a0b2-0ec7d5acb07c?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D28454954-a3056e18-4ac2-4f56-a0b2-0ec7d5acb07c%26entityType%3Dcollection%26workspaceId%3D9da3f40c-ad6e-4c2e-abec-a00ccdfa41aa)
 
-Коллекция для тестирования метода изменения комментария на внутреннем портале организации.
+Коллекция для тестирования метода изменения комментария на внутреннем портале организации.   
 [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/28454954-797c3939-2924-48ac-9724-7265b861c677?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D28454954-797c3939-2924-48ac-9724-7265b861c677%26entityType%3Dcollection%26workspaceId%3D9da3f40c-ad6e-4c2e-abec-a00ccdfa41aa)
 
 
