@@ -162,7 +162,7 @@
 ## Пример mind-map:
 - Есть аналитика, по которой нужно нарисовать mind-map, НЕ залезая в продукт.   
 [Ссылка на Google Sheets](https://docs.google.com/document/d/13ggyhHUzCimIhEIBEbSwibV5BQfzbjzq_dZ-asX2eiA/edit#heading=h.537a2daosnbd)   
-- Собственно mind-map (файл в формате .xmind):
+- Собственно mind-map (файл в формате .xmind):   
 [Ссылка на Google Disk](https://drive.google.com/file/d/1-rcX_o3fraI1kh4Gp96ykdgaoR8xgMiR/view?usp=sharing)   
 
 --- 
