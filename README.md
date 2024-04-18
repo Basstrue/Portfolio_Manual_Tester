@@ -39,7 +39,8 @@
 <img src="https://img.shields.io/badge/Mobile%20Testing-a7bf0a?style=plastic" alt="Mobile Testing" height="30"/>
 <img src="https://img.shields.io/badge/Android%20Studio-7f9107?style=plastic" alt="Android Studio" height="30"/>
 <img src="https://img.shields.io/badge/Charles-a7bf0a?style=plastic" alt="Charles" height="30"/>
-<img src="https://img.shields.io/badge/Kotlin-7f9107?style=plastic" alt="Kotlin" height="30"/>   
+<img src="https://img.shields.io/badge/Kotlin-7f9107?style=plastic" alt="Kotlin" height="30"/>
+<img src="https://img.shields.io/badge/Auto Tests-a7bf0a?style=plastic" alt="Auto Tests" height="30"/>
 <img src="https://img.shields.io/badge/Git-ad6d05?style=plastic" alt="Git" height="30"/>
 <img src="https://img.shields.io/badge/Logs-eb9915?style=plastic" alt="Logs" height="30"/>
 <img src="https://img.shields.io/badge/ELK-ad6d05?style=plastic" alt="ELK" height="30"/>
