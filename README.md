@@ -158,6 +158,11 @@
 - Пример из работы. Нужно было протестировать сервис создания интернет-магазинов и управления ими. Чек-лист в Miro, без привычных атрибутов, просто, чтобы не сбиться с пути.   
 [Ссылка на Miro](https://miro.com/app/board/uXjVN_4EC4g=/?share_link_id=642860102703) 
 
+---
+## Пример mind-map:
+- Есть аналитика, по которой нужно нарисовать mind-map, НЕ залезая в продукт.
+[Ссылка на Google Sheets](https://docs.google.com/document/d/13ggyhHUzCimIhEIBEbSwibV5BQfzbjzq_dZ-asX2eiA/edit#heading=h.537a2daosnbd)
+
 --- 
 ## Have a nice day!
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
