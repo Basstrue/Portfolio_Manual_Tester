@@ -44,6 +44,7 @@
 <img src="https://img.shields.io/badge/Selenium-ad6d05?style=plastic" alt="Selenium" height="30"/>
 <img src="https://img.shields.io/badge/Rider IDE-eb9915?style=plastic" alt="Rider IDE" height="30"/>
 <img src="https://img.shields.io/badge/IDEA-ad6d05?style=plastic" alt="IDEA" height="30"/>
+<img src="https://img.shields.io/badge/C#-eb9915?style=plastic" alt="C#" height="30"/>
 <img src="https://img.shields.io/badge/Git-ad6d05?style=plastic" alt="Git" height="30"/>
 <img src="https://img.shields.io/badge/Logs-eb9915?style=plastic" alt="Logs" height="30"/>
 <img src="https://img.shields.io/badge/ELK-ad6d05?style=plastic" alt="ELK" height="30"/>
